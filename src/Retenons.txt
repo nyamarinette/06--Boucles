@@ -1,0 +1,13 @@
+-> Resume :
+
+-Les boucles sont un element tres important de tout langage de programmation, qui sert a repeter des instructions, generalement tant qu'une condition est vraie.
+-Nous utilisons une condition  tant que ( while ).
+-Cette condition permet a la boucle de s'arreter
+-cette condition (while) est de faire repeter une instruction un certain nombre de fois.
+
+    Instruction a suivre pour envoyer le code dans le serveur:
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nyamarinette/06--Boucles.git
+git push -u origin main
